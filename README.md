@@ -10,5 +10,6 @@ python fish-log.py
 
 ![Uploading image.png…]()
 
+mau versi monitor semua akun ke 1 channel ?
+PM https://discord.com/channels/@rhdyar91
 
-https://discord.com/channels/@rhdyar91
