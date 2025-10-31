@@ -8,3 +8,7 @@ pip install -r requirements.txt
 
 python fish-log.py
 
+![Uploading image.png…]()
+
+
+https://discord.com/channels/@rhdyar91
