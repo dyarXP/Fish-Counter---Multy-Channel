@@ -80,7 +80,7 @@ def show_banner():
         "/ /   | \\__ \\ | | |_____/ /__| (_) | (_| |",
         "\\/    |_|___/_| |_|     \\____/\\___/ \\__, |",
         "      Ex @RHD Made with   🍌        |___/ ",
-        "      Webhook by Vizub                      "
+        "      Webhook by VinzHub                      "
     ]
     colors = [COLORS["RED"], COLORS["YELLOW"], COLORS["GREEN"], COLORS["CYAN"], COLORS["BLUE"], COLORS["MAGENTA"]]
     for i, line in enumerate(banner):
